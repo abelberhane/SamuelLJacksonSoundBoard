@@ -1,0 +1,9 @@
+c:\users\abel\documents\visual studio 2017\Projects\SoundBoard\SoundBoard\obj\Debug\SoundBoard.csprojResolveAssemblyReference.cache
+c:\users\abel\documents\visual studio 2017\Projects\SoundBoard\SoundBoard\obj\Debug\SoundBoard.mainForm.resources
+c:\users\abel\documents\visual studio 2017\Projects\SoundBoard\SoundBoard\obj\Debug\SoundBoard.csproj.GenerateResource.Cache
+c:\users\abel\documents\visual studio 2017\Projects\SoundBoard\SoundBoard\bin\Debug\SoundBoard.exe.config
+c:\users\abel\documents\visual studio 2017\Projects\SoundBoard\SoundBoard\bin\Debug\SoundBoard.exe
+c:\users\abel\documents\visual studio 2017\Projects\SoundBoard\SoundBoard\bin\Debug\SoundBoard.pdb
+c:\users\abel\documents\visual studio 2017\Projects\SoundBoard\SoundBoard\obj\Debug\SoundBoard.Properties.Resources.resources
+c:\users\abel\documents\visual studio 2017\Projects\SoundBoard\SoundBoard\obj\Debug\SoundBoard.exe
+c:\users\abel\documents\visual studio 2017\Projects\SoundBoard\SoundBoard\obj\Debug\SoundBoard.pdb
