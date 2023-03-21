@@ -23,6 +23,7 @@ namespace SoundBoard
             InitializeComponent();
         }
        
+       # Assigning the buttons to specific sound bytes
         private void ambulanceButton_Click(object sender, EventArgs e)
         {
             SoundPlayer sp = new SoundPlayer(SoundBoard.Properties.Resources.Ambulance);
